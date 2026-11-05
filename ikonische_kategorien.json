@@ -1,0 +1,1751 @@
+{
+  "database_name": "Ikonische Kategorien",
+  "version": "1.0",
+  "created": "2026-10-30",
+  "language": "de",
+  "description": "Kuratiertes Kategorienwissen mit nach geschätzter Bekanntheit sortierten Begriffen. Die Sortierung ist redaktionell und nicht statistisch erhoben. Bei dynamischen Kategorien gelten die angegebenen Quellen und Stichtage.",
+  "usage_note": "Einige Listen sind bewusst länger oder kürzer als 20 Einträge, wenn die Kategorie eine natürliche Grenze hat oder 20 sinnvolle Beispiele nicht ausreichen.",
+  "categories": {
+    "Pizzabeläge": {
+      "items": [
+        "Salami",
+        "Champignons",
+        "Thunfisch",
+        "Paprika",
+        "Zwiebeln",
+        "Oliven",
+        "Ananas",
+        "Rucola",
+        "Sardellen",
+        "Bacon"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Suppen": {
+      "items": [
+        "Tomatensuppe",
+        "Hühnersuppe",
+        "Kartoffelsuppe",
+        "Kürbissuppe",
+        "Buchstabensuppe",
+        "Miso-Suppe",
+        "Pho",
+        "Ramen",
+        "Gazpacho",
+        "Bouillabaisse"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Französisches Essen": {
+      "items": [
+        "Croissant",
+        "Crêpe",
+        "Ratatouille",
+        "Crème brûlée",
+        "Macarons",
+        "Pain au chocolat",
+        "Coq au vin",
+        "Soufflé",
+        "Escargots",
+        "Foie gras"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Saucen": {
+      "items": [
+        "Ketchup",
+        "Mayonnaise",
+        "Senf",
+        "BBQ-Sauce",
+        "Hollandaise",
+        "Béchamel",
+        "Sojasauce",
+        "Siracha",
+        "Remoulade",
+        "Cocktailsauce"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Asiatisches Essen": {
+      "items": [
+        "Sushi",
+        "Frühlingsrollen",
+        "Ramen",
+        "Curry",
+        "Pad Thai",
+        "Pho",
+        "Kimchi",
+        "Bibimbap",
+        "Dim Sum",
+        "Pekingente"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Obst": {
+      "items": [
+        "Apfel",
+        "Erdbeere",
+        "Orange",
+        "Traube",
+        "Wassermelone",
+        "Mango",
+        "Kiwi",
+        "Granatapfel",
+        "Papaya",
+        "Durian"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Gemüse": {
+      "items": [
+        "Tomate",
+        "Gurke",
+        "Karotte",
+        "Paprika",
+        "Zwiebel",
+        "Blumenkohl",
+        "Spinat",
+        "Zucchini",
+        "Aubergine",
+        "Pastinake"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Alkohol": {
+      "items": [
+        "Bier",
+        "Wein",
+        "Wodka",
+        "Whisky",
+        "Gin",
+        "Tequila",
+        "Champagner",
+        "Likör",
+        "Cognac",
+        "Soju"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Softdrinks (Marken)": {
+      "items": [
+        "Coca-Cola",
+        "Pepsi",
+        "Sprite",
+        "Dr Pepper",
+        "Red Bull",
+        "fritz-kola",
+        "Spezi",
+        "Bionade",
+        "Mirinda",
+        "Orangina"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Cocktails": {
+      "items": [
+        "Mojito",
+        "Caipirinha",
+        "Piña Colada",
+        "Martini",
+        "Moscow Mule",
+        "Aperol Spritz",
+        "Whiskey Sour",
+        "Long Island Iced Tea",
+        "Bloody Mary",
+        "Espresso Martini"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Bundesliga-Vereine": {
+      "items": [
+        "FC Bayern München",
+        "Borussia Dortmund",
+        "Bayer 04 Leverkusen",
+        "Eintracht Frankfurt",
+        "SC Freiburg",
+        "1. FSV Mainz 05",
+        "Werder Bremen",
+        "VfL Wolfsburg",
+        "FC Schalke 04",
+        "Hertha BSC"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Sommer-Olympiasportarten Paris 2024": {
+      "items": [
+        "Fußball",
+        "Tennis",
+        "Fechten",
+        "Bogenschießen",
+        "Breaking (Breakdance)",
+        "Synchronschwimmen",
+        "Tischtennis",
+        "Taekwondo",
+        "Surfen",
+        "Sportschießen"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://olympics.com/en/olympic-games/paris-2024/sports",
+        "https://parigi2024.coni.it/en/sports.html"
+      ],
+      "note": "Zusammenstellung der Sportarten und im Programm separat geführten Disziplinbereiche; je nach offizieller Darstellung werden z. B. Radsport, Kanu, Reiten und Turnen als Sammelsportarten oder Unterdisziplinen gruppiert."
+    },
+    "Wintersportarten Olympia Milano Cortina 2026": {
+      "items": [
+        "Biathlon",
+        "Eishockey",
+        "Eiskunstlauf",
+        "Snowboard",
+        "Skispringen",
+        "Bob",
+        "Curling",
+        "Eisschnelllauf",
+        "Freestyle-Skiing",
+        "Skeleton"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://milanocortina2026.coni.it/en/sports.html"
+      ],
+      "note": "Die 16 Sportarten/Disziplinen des offiziellen Programms Milano Cortina 2026."
+    },
+    "Begriffe beim Basketball": {
+      "items": [
+        "Korb",
+        "Dribbling",
+        "Dreier",
+        "Freiwurf",
+        "Rebound",
+        "Block",
+        "Dunk",
+        "Layup",
+        "Traveling",
+        "Buzzer Beater"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Ballsportarten": {
+      "items": [
+        "Fußball",
+        "Tennis",
+        "Volleyball",
+        "Badminton",
+        "Rugby",
+        "Baseball",
+        "Golf",
+        "Hockey",
+        "Cricket",
+        "Polo"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Tennisspieler": {
+      "items": [
+        "Roger Federer",
+        "Rafael Nadal",
+        "Novak Djokovic",
+        "Serena Williams",
+        "Steffi Graf",
+        "Martina Navratilova",
+        "Boris Becker",
+        "Andre Agassi",
+        "Pete Sampras",
+        "Andy Murray"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Länder bei der WM 2026": {
+      "items": [
+        "Argentinien",
+        "Brasilien",
+        "Deutschland",
+        "Frankreich",
+        "England",
+        "Spanien",
+        "Portugal",
+        "Japan",
+        "USA",
+        "Schottland"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams"
+      ],
+      "note": "Alle 48 qualifizierten Teilnehmer der FIFA-Weltmeisterschaft 2026; alphabetisch bzw. nach Bekanntheit grob sortiert, nicht nach sportlicher Platzierung."
+    },
+    "Disney-Prinzessinnen": {
+      "items": [
+        "Schneewittchen",
+        "Cinderella",
+        "Aurora (Dornröschen)",
+        "Arielle",
+        "Jasmin",
+        "Pocahontas",
+        "Mulan",
+        "Rapunzel",
+        "Vaiana",
+        "Elsa"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Pixar-Filme": {
+      "items": [
+        "Toy Story",
+        "Findet Nemo",
+        "Die Monster AG",
+        "Cars",
+        "Ratatouille",
+        "WALL·E",
+        "Alles steht Kopf",
+        "Coco",
+        "Die Unglaublichen",
+        "Soul"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Filme mit Oscar-Auszeichnung": {
+      "items": [
+        "Titanic",
+        "Avatar",
+        "Star Wars: Eine neue Hoffnung",
+        "Jurassic Park",
+        "Der Pate",
+        "Forrest Gump",
+        "Inception",
+        "The Dark Knight",
+        "Parasite",
+        "Interstellar"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Filmgenres": {
+      "items": [
+        "Action",
+        "Komödie",
+        "Horror",
+        "Thriller",
+        "Science-Fiction",
+        "Fantasy",
+        "Romanze",
+        "Abenteuer",
+        "Animation",
+        "Dokumentarfilm"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Superhelden bei den Avengers": {
+      "items": [
+        "Iron Man",
+        "Captain America",
+        "Thor",
+        "Hulk",
+        "Hawkeye",
+        "Spider-Man",
+        "Doctor Strange",
+        "Black Panther",
+        "Ant-Man",
+        "Star-Lord"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Netflix Originals": {
+      "items": [
+        "Stranger Things",
+        "Squid Game",
+        "Haus des Geldes",
+        "Dark",
+        "Wednesday",
+        "Black Mirror",
+        "Lupin",
+        "The Queen's Gambit",
+        "BoJack Horseman",
+        "Arcane"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Animationsserien für Kinder": {
+      "items": [
+        "SpongeBob Schwammkopf",
+        "Pokémon",
+        "Dragon Ball",
+        "Phineas und Ferb",
+        "Peppa Wutz",
+        "Paw Patrol",
+        "Miraculous",
+        "Tom und Jerry",
+        "Gravity Falls",
+        "Bluey"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Tiere aus Cartoons": {
+      "items": [
+        "Mickey Maus",
+        "Goofy",
+        "Bugs Bunny",
+        "Jerry",
+        "Garfield",
+        "Scooby-Doo",
+        "Winnie Puuh",
+        "Perry das Schnabeltier",
+        "Snoopy",
+        "Eisbär"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Michael Jackson Songs": {
+      "items": [
+        "Billie Jean",
+        "Thriller",
+        "Beat It",
+        "Smooth Criminal",
+        "Bad",
+        "They Don't Care About Us",
+        "Rock with You",
+        "Don't Stop 'Til You Get Enough",
+        "Remember the Time",
+        "Human Nature"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "ABBA Songs": {
+      "items": [
+        "Dancing Queen",
+        "Mamma Mia",
+        "Waterloo",
+        "The Winner Takes It All",
+        "Gimme! Gimme! Gimme!",
+        "SOS",
+        "Money, Money, Money",
+        "Voulez-Vous",
+        "Chiquitita",
+        "Super Trouper"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Bruno Mars Songs": {
+      "items": [
+        "Uptown Funk",
+        "Locked Out of Heaven",
+        "Grenade",
+        "24K Magic",
+        "That's What I Like",
+        "The Lazy Song",
+        "Marry You",
+        "Talking to the Moon",
+        "Die with a Smile",
+        "APT."
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Justin Bieber Songs": {
+      "items": [
+        "Baby",
+        "Sorry",
+        "Love Yourself",
+        "What Do You Mean?",
+        "Peaches",
+        "Stay",
+        "Never Say Never",
+        "Boyfriend",
+        "Beauty and a Beat",
+        "Yummy"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Taylor Swift Songs": {
+      "items": [
+        "Shake It Off",
+        "Love Story",
+        "Blank Space",
+        "Cruel Summer",
+        "Style",
+        "Cardigan",
+        "Bad Blood",
+        "Wildest Dreams",
+        "22",
+        "The Fate of Ophelia"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Bekannte Komponisten": {
+      "items": [
+        "Ludwig van Beethoven",
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Frédéric Chopin",
+        "Antonio Vivaldi",
+        "Johannes Brahms",
+        "Pyotr Iljitsch Tschaikowski",
+        "Claude Debussy",
+        "Joseph Haydn",
+        "Georg Friedrich Händel"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Instrumente im Orchester": {
+      "items": [
+        "Violine",
+        "Violoncello",
+        "Kontrabass",
+        "Flöte",
+        "Klarinette",
+        "Fagott",
+        "Trompete",
+        "Horn",
+        "Schlagzeug",
+        "Harfe"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.berliner-philharmoniker.de/"
+      ]
+    },
+    "Kartenspiele": {
+      "items": [
+        "Poker",
+        "Uno",
+        "Schwarzer Peter",
+        "Mau-Mau",
+        "Wizard",
+        "Phase 10",
+        "Exploding Kittens",
+        "Bohnanza",
+        "6 nimmt!",
+        "Skip-Bo"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Brettspiele": {
+      "items": [
+        "Monopoly",
+        "Schach",
+        "Mensch ärgere Dich nicht",
+        "Die Siedler von Catan",
+        "Risiko",
+        "Cluedo",
+        "Scrabble",
+        "Zug um Zug",
+        "Scotland Yard",
+        "Trivial Pursuit"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Mario-Charaktere": {
+      "items": [
+        "Mario",
+        "Prinzessin Peach",
+        "Yoshi",
+        "Toad",
+        "Waluigi",
+        "Donkey Kong",
+        "Rosalina",
+        "Bowser Jr.",
+        "Kamek",
+        "Shy Guy"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "LEGO-Reihen": {
+      "items": [
+        "LEGO City",
+        "LEGO Star Wars",
+        "LEGO Technic",
+        "LEGO Ninjago",
+        "LEGO Duplo",
+        "LEGO Harry Potter",
+        "LEGO Marvel",
+        "LEGO Minecraft",
+        "LEGO Super Mario",
+        "LEGO Botanicals"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Monopoly-Straßen (klassische deutsche Ausgabe)": {
+      "items": [
+        "Schlossallee",
+        "Badstraße",
+        "Elisenstraße",
+        "Poststraße",
+        "Neue Straße",
+        "Münchner Straße",
+        "Berliner Straße",
+        "Opernplatz",
+        "Schillerstraße",
+        "Hauptstraße"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Baumarten": {
+      "items": [
+        "Eiche",
+        "Buche",
+        "Birke",
+        "Ahorn",
+        "Fichte",
+        "Kiefer",
+        "Tanne",
+        "Kastanie",
+        "Esche",
+        "Apfelbaum"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Blumen": {
+      "items": [
+        "Rose",
+        "Tulpe",
+        "Sonnenblume",
+        "Lilie",
+        "Gänseblümchen",
+        "Orchidee",
+        "Nelke",
+        "Lavendel",
+        "Narzisse",
+        "Mohn"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Gewürze": {
+      "items": [
+        "Salz",
+        "Zimt",
+        "Curry",
+        "Oregano",
+        "Chili",
+        "Rosmarin",
+        "Kurkuma",
+        "Safran",
+        "Koriander",
+        "Sternanis"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Fische": {
+      "items": [
+        "Lachs",
+        "Thunfisch",
+        "Forelle",
+        "Hering",
+        "Sardine",
+        "Hecht",
+        "Aal",
+        "Flunder",
+        "Clownfisch",
+        "Kugelfisch"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Insekten": {
+      "items": [
+        "Ameise",
+        "Biene",
+        "Fliege",
+        "Mücke",
+        "Schmetterling",
+        "Marienkäfer",
+        "Heuschrecke",
+        "Libelle",
+        "Glühwürmchen",
+        "Gottesanbeterin"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Nationaltiere": {
+      "items": [
+        "Adler (USA)",
+        "Löwe (England)",
+        "Känguru (Australien)",
+        "Tiger (Indien)",
+        "Riesiger Panda (China)",
+        "Biber (Kanada)",
+        "Jaguar (Brasilien)",
+        "Elefant (Thailand)",
+        "Bengalischer Tiger (Bangladesch)",
+        "Schwarzbär (Russland, Symbol)"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [],
+      "note": "Auswahl nationaler Tiere und verbreiteter Nationalsymbole. Nicht jedes Tier ist in jedem Land gesetzlich als offizielles Nationaltier festgelegt."
+    },
+    "Vögel": {
+      "items": [
+        "Taube",
+        "Adler",
+        "Ente",
+        "Specht",
+        "Möwe",
+        "Papagei",
+        "Pinguin",
+        "Kolibri",
+        "Rabe",
+        "Kranich"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Tiere im Amazonasgebiet": {
+      "items": [
+        "Jaguar",
+        "Piranha",
+        "Anakonda",
+        "Kapibara",
+        "Affe",
+        "Tukan",
+        "Pfeilgiftfrosch",
+        "Rosa Flussdelfin",
+        "Kaiman",
+        "Ameisenbär"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Hunderassen": {
+      "items": [
+        "Golden Retriever",
+        "Deutscher Schäferhund",
+        "Dackel",
+        "Pudel",
+        "Bulldogge",
+        "Chihuahua",
+        "Rottweiler",
+        "Husky",
+        "Mops",
+        "Dalmatiner"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "EU-Länder": {
+      "items": [
+        "Deutschland",
+        "Frankreich",
+        "Italien",
+        "Spanien",
+        "Polen",
+        "Griechenland",
+        "Dänemark",
+        "Bulgarien",
+        "Estland",
+        "Zypern"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://european-union.europa.eu/principles-countries-history/country-profiles_en"
+      ]
+    },
+    "Länder in Asien": {
+      "items": [
+        "China",
+        "Indien",
+        "Japan",
+        "Südkorea",
+        "Thailand",
+        "Malaysia",
+        "Mongolei",
+        "Kasachstan",
+        "Laos",
+        "Jordanien"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Länder in Afrika": {
+      "items": [
+        "Nigeria",
+        "Ägypten",
+        "Südafrika",
+        "Kenia",
+        "Äthiopien",
+        "Uganda",
+        "Elfenbeinküste",
+        "Simbabwe",
+        "Mosambik",
+        "Gabun"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Länder in Südamerika": {
+      "items": [
+        "Brasilien",
+        "Argentinien",
+        "Chile",
+        "Kolumbien",
+        "Peru",
+        "Venezuela",
+        "Ecuador",
+        "Bolivien",
+        "Uruguay",
+        "Suriname"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Hauptstädte in Europa": {
+      "items": [
+        "Paris",
+        "London",
+        "Madrid",
+        "Wien",
+        "Prag",
+        "Helsinki",
+        "Sofia",
+        "Bratislava",
+        "Ljubljana",
+        "Tallinn"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Hauptstädte außerhalb Europas": {
+      "items": [
+        "Washington, D.C.",
+        "Peking",
+        "Tokio",
+        "Seoul",
+        "Canberra",
+        "Ottawa",
+        "Brasília",
+        "Kairo",
+        "Kuala Lumpur",
+        "Jerusalem"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Flaggen mit nur weiß und rot": {
+      "items": [
+        "Japan",
+        "Kanada",
+        "Polen",
+        "Dänemark",
+        "Türkei",
+        "Grönland",
+        "Katar",
+        "Georgien",
+        "Monaco",
+        "Tonga"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Flüsse in Europa": {
+      "items": [
+        "Donau",
+        "Rhein",
+        "Wolga",
+        "Seine",
+        "Themse",
+        "Elbe",
+        "Oder",
+        "Rhône",
+        "Po",
+        "Mosel"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Französische Städte": {
+      "items": [
+        "Paris",
+        "Marseille",
+        "Lyon",
+        "Toulouse",
+        "Nizza",
+        "Cannes",
+        "Straßburg",
+        "Bordeaux",
+        "Lille",
+        "Grenoble"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Italienische Städte": {
+      "items": [
+        "Rom",
+        "Venedig",
+        "Florenz",
+        "Neapel",
+        "Bologna",
+        "Verona",
+        "Pisa",
+        "Palermo",
+        "Siena",
+        "Parma"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Berge": {
+      "items": [
+        "Mount Everest",
+        "K2",
+        "Kilimandscharo",
+        "Mont Blanc",
+        "Matterhorn",
+        "Zugspitze",
+        "Mount Fuji",
+        "Olymp",
+        "Vesuv",
+        "Tafelberg"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Deutsche Bundeskanzler": {
+      "items": [
+        "Konrad Adenauer",
+        "Ludwig Erhard",
+        "Kurt Georg Kiesinger",
+        "Willy Brandt",
+        "Helmut Schmidt",
+        "Helmut Kohl",
+        "Gerhard Schröder",
+        "Angela Merkel",
+        "Olaf Scholz",
+        "Friedrich Merz"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.bundeskanzler.de/bk-de/kanzleramt/bundeskanzler-seit-1949"
+      ]
+    },
+    "Städte in Bayern": {
+      "items": [
+        "München",
+        "Nürnberg",
+        "Regensburg",
+        "Würzburg",
+        "Fürth",
+        "Erlangen",
+        "Landshut",
+        "Aschaffenburg",
+        "Coburg",
+        "Straubing"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Parteien in Deutschland": {
+      "items": [
+        "CDU",
+        "SPD",
+        "Bündnis 90/Die Grünen",
+        "FDP",
+        "Die Linke",
+        "AfD",
+        "Freie Wähler",
+        "Die PARTEI",
+        "Volt",
+        "ÖDP"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Handymarken": {
+      "items": [
+        "Apple",
+        "Samsung",
+        "Xiaomi",
+        "Huawei",
+        "Google Pixel",
+        "Motorola",
+        "Nokia",
+        "Oppo",
+        "Nothing",
+        "Asus"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Microsoft-Office-Programme": {
+      "items": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "OneNote",
+        "Access",
+        "Publisher",
+        "Teams",
+        "OneDrive",
+        "Forms"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Verkehrsmittel": {
+      "items": [
+        "Auto",
+        "Bus",
+        "Fahrrad",
+        "Flugzeug",
+        "Motorrad",
+        "Schiff",
+        "Taxi",
+        "E-Scooter",
+        "Tram",
+        "Helikopter"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Autoteile": {
+      "items": [
+        "Motor",
+        "Reifen",
+        "Lenkrad",
+        "Bremse",
+        "Batterie",
+        "Auspuff",
+        "Kupplung",
+        "Kühler",
+        "Scheibenwischer",
+        "Scheinwerfer"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Apple-Produkte": {
+      "items": [
+        "iPhone",
+        "MacBook",
+        "iPad",
+        "Apple Watch",
+        "AirPods",
+        "Apple TV",
+        "AirTag",
+        "Apple Pencil",
+        "Vision Pro",
+        "Magic Mouse"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Automarken": {
+      "items": [
+        "Volkswagen",
+        "BMW",
+        "Mercedes-Benz",
+        "Porsche",
+        "Toyota",
+        "Tesla",
+        "Ferrari",
+        "Škoda",
+        "Hyundai",
+        "Volvo"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Währungen": {
+      "items": [
+        "Euro",
+        "Dollar",
+        "Krone",
+        "Japanischer Yen",
+        "Schweizer Franken",
+        "Indische Rupie",
+        "Russischer Rubel",
+        "Türkische Lira",
+        "Südkoreanischer Won",
+        "Brasilianischer Real"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Top 100 Aktien weltweit": {
+      "items": [
+        "NVIDIA",
+        "Alphabet",
+        "Microsoft",
+        "Tesla",
+        "Apple",
+        "Visa",
+        "Tencent",
+        "SAP",
+        "IBM",
+        "Adobe"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.statista.com/statistics/1637619/largest-companies-in-the-world-by-market-value/"
+      ],
+      "note": "Orientierende Auswahl großer börsennotierter Unternehmen; Rangfolge und Zusammensetzung ändern sich mit den Aktienkursen. Kein Anlagehinweis. Für einen streng tagesaktuellen Top-100-Abgleich bitte die verlinkte Quelle und deren Stichtag prüfen."
+    },
+    "Zimmer/Räume im Haus": {
+      "items": [
+        "Küche",
+        "Wohnzimmer",
+        "Badezimmer",
+        "Kinderzimmer",
+        "Flur",
+        "Arbeitszimmer",
+        "Dachboden",
+        "Gästezimmer",
+        "Abstellraum",
+        "Garage"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Frisuren": {
+      "items": [
+        "Pferdeschwanz",
+        "Zopf",
+        "Bob",
+        "Buzz Cut",
+        "Irokesenschnitt",
+        "Fade",
+        "Mittelscheitel",
+        "Afro",
+        "Cornrows",
+        "Wolf Cut"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Küchenutensilien": {
+      "items": [
+        "Messer",
+        "Schneidebrett",
+        "Pfanne",
+        "Schneebesen",
+        "Kochlöffel",
+        "Sieb",
+        "Nudelholz",
+        "Pfannenwender",
+        "Knoblauchpresse",
+        "Küchenwaage"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Kuchenarten": {
+      "items": [
+        "Käsekuchen",
+        "Schokoladenkuchen",
+        "Apfelkuchen",
+        "Marmorkuchen",
+        "Schwarzwälder Kirschtorte",
+        "Karottenkuchen",
+        "Bienenstich",
+        "Donauwelle",
+        "Streuselkuchen",
+        "Tiramisu"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Bekannte tote Künstler": {
+      "items": [
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Leonardo da Vinci",
+        "Claude Monet",
+        "Frida Kahlo",
+        "Salvador Dalí",
+        "Michelangelo",
+        "Andy Warhol",
+        "Johannes Vermeer",
+        "Albrecht Dürer"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Kunstbewegungen": {
+      "items": [
+        "Renaissance",
+        "Expressionismus",
+        "Kubismus",
+        "Surrealismus",
+        "Realismus",
+        "Gotik",
+        "Futurismus",
+        "Pop-Art",
+        "Jugendstil",
+        "Bauhaus"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Schriftarten": {
+      "items": [
+        "Arial",
+        "Times New Roman",
+        "Calibri",
+        "Helvetica",
+        "Comic Sans MS",
+        "Roboto",
+        "Futura",
+        "Impact",
+        "Montserrat",
+        "Papyrus"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Wörter mit Baum": {
+      "items": [
+        "Baumhaus",
+        "Baumstamm",
+        "Baumkrone",
+        "Baumrinde",
+        "Baumwurzel",
+        "Baumwolle",
+        "Baumwipfel",
+        "Baumkunde",
+        "Baumfällung",
+        "Baumharz"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Wörter mit -lich": {
+      "items": [
+        "freundlich",
+        "natürlich",
+        "persönlich",
+        "öffentlich",
+        "endlich",
+        "plötzlich",
+        "wirklich",
+        "gefährlich",
+        "herrlich",
+        "peinlich"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Wörter mit -ismus": {
+      "items": [
+        "Kapitalismus",
+        "Sozialismus",
+        "Tourismus",
+        "Rassismus",
+        "Feminismus",
+        "Pessimismus",
+        "Nationalismus",
+        "Materialismus",
+        "Humanismus",
+        "Surrealismus"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Reimende Wörter auf Maus": {
+      "items": [
+        "Haus",
+        "raus",
+        "aus",
+        "Laus",
+        "Schmaus",
+        "Applaus",
+        "Graus",
+        "hinaus",
+        "voraus",
+        "Staus"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Reimende Wörter auf Lage": {
+      "items": [
+        "Jage",
+        "Frage",
+        "Plage",
+        "Waage",
+        "Tage",
+        "Sage",
+        "Klage",
+        "Trage",
+        "Absage",
+        "Aussage"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Deutsche Stilmittel": {
+      "items": [
+        "Metapher",
+        "Alliteration",
+        "Anapher",
+        "Ellipse",
+        "rhetorische Frage",
+        "Antithese",
+        "Paradoxon",
+        "Klimax",
+        "Parallelismus",
+        "Onomatopoesie"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Meistverkaufte Bücher (weltweit, Auswahl)": {
+      "items": [
+        "Die Bibel",
+        "Harry Potter und der Stein der Weisen",
+        "Der kleine Prinz",
+        "Der Hobbit",
+        "Der Herr der Ringe",
+        "Der Da Vinci Code",
+        "Think and Grow Rich",
+        "Lolita",
+        "Don Quijote",
+        "Der große Gatsby"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Batman-Universum": {
+      "items": [
+        "Batman",
+        "Joker",
+        "Catwoman",
+        "Robin",
+        "Harley Quinn",
+        "Penguin",
+        "Riddler",
+        "Two-Face",
+        "Bane",
+        "The Flash"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Figuren aus Mickey Maus": {
+      "items": [
+        "Mickey Maus",
+        "Minnie Maus",
+        "Daisy Duck",
+        "Goofy",
+        "Pluto",
+        "Kater Karlo",
+        "Tick",
+        "Onkel Dagobert",
+        "Daniel Düsentrieb",
+        "Gustav Gans"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Dinge aus Papier und Schrift": {
+      "items": [
+        "Buch",
+        "Zeitung",
+        "Brief",
+        "Notizblock",
+        "Plakat",
+        "Kalender",
+        "Kassenbon/Quittung",
+        "Broschüre",
+        "Fahrkarte",
+        "Speisekarte"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Stiftarten": {
+      "items": [
+        "Kugelschreiber",
+        "Bleistift",
+        "Füller",
+        "Filzstift",
+        "Textmarker",
+        "Buntstift",
+        "Fineliner",
+        "Tintenkiller",
+        "Permanentmarker/Edding",
+        "Whiteboardmarker"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Mathematische Formen (2D)": {
+      "items": [
+        "Kreis",
+        "Dreieck",
+        "Rechteck",
+        "Raute",
+        "Parallelogramm",
+        "Trapez",
+        "Pentagon",
+        "Ellipse",
+        "Hexagon",
+        "Drachenviereck"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Längeneinheiten": {
+      "items": [
+        "Meter",
+        "Kilometer",
+        "Mikrometer",
+        "Nanometer",
+        "Dezimeter",
+        "Meile",
+        "Zoll",
+        "Lichtjahr",
+        "Faden",
+        "Elle"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Einheiten in der Physik": {
+      "items": [
+        "Meter",
+        "Ampere",
+        "Kelvin",
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal",
+        "Ohm",
+        "Hertz",
+        "Farad"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Elemente der ersten vier Perioden": {
+      "items": [
+        "Wasserstoff",
+        "Helium",
+        "Bor",
+        "Stickstoff",
+        "Sauerstoff",
+        "Fluor",
+        "Aluminium",
+        "Phosphor",
+        "Kalium",
+        "Eisen"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://iupac.org/what-we-do/periodic-table-of-elements/"
+      ]
+    },
+    "Metalle": {
+      "items": [
+        "Eisen",
+        "Kupfer",
+        "Gold",
+        "Zink",
+        "Blei",
+        "Titan",
+        "Quecksilber",
+        "Magnesium",
+        "Lithium",
+        "Wolfram"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Körperteile": {
+      "items": [
+        "Kopf",
+        "Bein",
+        "Fuß",
+        "Ohr",
+        "Mund",
+        "Schulter",
+        "Knie",
+        "Zehe",
+        "Bauch",
+        "Hüfte"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Organe": {
+      "items": [
+        "Herz",
+        "Lunge",
+        "Gehirn",
+        "Leber",
+        "Niere",
+        "Magen",
+        "Darm",
+        "Haut",
+        "Bauchspeicheldrüse",
+        "Milz"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Teile vom Baum": {
+      "items": [
+        "Wurzel",
+        "Stamm",
+        "Rinde",
+        "Krone",
+        "Zweig / Ast",
+        "Blatt",
+        "Blüte",
+        "Frucht",
+        "Knospe",
+        "Jahresring"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "US-Staaten": {
+      "items": [
+        "Kalifornien",
+        "Texas",
+        "Florida",
+        "Washington",
+        "Colorado",
+        "Alabama",
+        "New Mexico",
+        "Hawaii",
+        "Alaska",
+        "New Hampshire"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.usa.gov/states"
+      ]
+    },
+    "Amerikanische Präsidenten": {
+      "items": [
+        "George Washington",
+        "Thomas Jefferson",
+        "Theodore Roosevelt",
+        "John F. Kennedy",
+        "Richard Nixon",
+        "Ronald Reagan",
+        "Bill Clinton",
+        "George W. Bush",
+        "Barack Obama",
+        "Joe Biden"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.whitehouse.gov/about-the-white-house/presidents/"
+      ]
+    },
+    "Dinge in London": {
+      "items": [
+        "Big Ben",
+        "Tower Bridge",
+        "Buckingham Palace",
+        "London Eye",
+        "Tower of London",
+        "British Museum",
+        "Hyde Park",
+        "Trafalgar Square",
+        "The Shard",
+        "Shakespeare's/ The Globe"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Länder unter britischer Herrschaft (heute Commonwealth/Überseegebiete oder ehem. Kolonien)": {
+      "items": [
+        "Indien",
+        "Australien",
+        "Kanada",
+        "Neuseeland",
+        "Südafrika",
+        "Nigeria",
+        "Kenia",
+        "Zypern",
+        "Irland",
+        "Fidschi/ Fiji"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [],
+      "note": "Beispiele aus ehemaligen britischen Kolonien bzw. heutigen Commonwealth-Staaten und britischen Überseegebieten; die Mitgliedschaft im Commonwealth bedeutet nicht, dass ein Land heute britisch beherrscht wird."
+    },
+    "Mitglieder der Royal Family": {
+      "items": [
+        "König Charles III.",
+        "Königin Elizabeth II.",
+        "Prinz William",
+        "Prinz George",
+        "Prinzessin Diane",
+        "Prinz Harry",
+        "Meghan, Duchess of Sussex/ Meghan Markle",
+        "Prinzessin Anne",
+        "Prinz Andrew",
+        "Prinz Edward"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Bibelbücher": {
+      "items": [
+        "Genesis (1. Mose)",
+        "Richter",
+        "1. Samuel",
+        "Psalmen",
+        "Jeremia",
+        "Daniel",
+        "Matthäus",
+        "Apostelgeschichte",
+        "Römer",
+        "Offenbarung"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": [
+        "https://www.die-bibel.de/"
+      ]
+    },
+    "Länder mit christlicher Bevölkerungsmehrheit": {
+      "items": [
+        "Vatikanstadt",
+        "Rumänien",
+        "Griechenland",
+        "Polen",
+        "Italien",
+        "Portugal",
+        "Norwegen",
+        "USA",
+        "Deutschland",
+        "Österreich"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Uhrenmarken": {
+      "items": [
+        "Rolex",
+        "Omega",
+        "Casio",
+        "Seiko",
+        "Swatch",
+        "Cartier",
+        "TAG Heuer",
+        "Audemars Piguet",
+        "Tissot",
+        "Timex"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Schuhmarken": {
+      "items": [
+        "Nike",
+        "Adidas",
+        "New Balance",
+        "Converse",
+        "Vans",
+        "Skechers",
+        "Asics",
+        "Birkenstock",
+        "Timberland",
+        "Crocs"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Kleidung im Winter": {
+      "items": [
+        "Winterjacke",
+        "Mantel",
+        "Pullover",
+        "Schal",
+        "Mütze",
+        "Handschuhe",
+        "Stiefel",
+        "Ohrenwärmer",
+        "Wollsocken",
+        "Schneehose"      
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Luxus-Kleidungsmarken": {
+      "items": [
+        "Louis Vuitton",
+        "Gucci",
+        "Chanel",
+        "Prada",
+        "Dior",
+        "Versace",
+        "Burberry",
+        "Armani",
+        "Balenciaga",
+        "Ralph Lauren"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Edelsteine": {
+      "items": [
+        "Diamant",
+        "Rubin",
+        "Saphir",
+        "Smaragd",
+        "Amethyst",
+        "Quarz",
+        "Opal",
+        "Topas",
+        "Mondstein",
+        "Lapislazuli"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    },
+    "Accessoires": {
+      "items": [
+        "Armbanduhr",
+        "Sonnenbrille",
+        "Gürtel",
+        "Mütze",
+        "Kette",
+        "Armband",
+        "Ohrringe",
+        "Ring",
+        "Hut",
+        "Krawatte"
+      ],
+      "sort_order": "allgemein zu speziell",
+      "sources": []
+    }
+  }
+}
